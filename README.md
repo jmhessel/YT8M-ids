@@ -2,7 +2,7 @@
 
 This repo contains a [list of all of the video
 IDs](https://github.com/jmhessel/YT8M-ids/blob/master/training_ids.zip)
-in the [Youtube8M](https://research.google.com/youtube8m/) dataset,
+in the [Youtube8M](https://research.google.com/youtube8m/) training set,
 along with the scripts used to produce this list.
 
 Note: the scripts are not clean, nor are they robust. However, I do
